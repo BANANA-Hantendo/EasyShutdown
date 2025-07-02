@@ -19,8 +19,8 @@ EasyShutdown - Version 1.2.1
 2. 必要スペック
 
 　必要最低スペック：
-    OS: Windows 7以降（SHUTDOWNコマンドが使えるWindowsだったらおｋ）
-    　Windows 7にて動作を確認しています。Windows 7で 再起動して回復環境を開く ができないことが確認されています。
+    OS: SHUTDOWNコマンドが使えるWindowsだったらおｋ
+    　Windows 7とWindows 11にて動作を確認しています。Windows 7で 再起動して回復環境を開く ができないことが確認されています。
     　これにより、Windows 7以前では 再起動して回復環境を開く ができないと考えられます。
     　9x系とかすっごい古いNT(NT 3.x とか NT 4.xとか)、XP、VistaではそもそもEasyShutdownが動くかわかりません。（多分動きます）
     ほか: OSの最低スペックで使える（と思う）
